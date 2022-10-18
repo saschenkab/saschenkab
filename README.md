@@ -1,8 +1,8 @@
-<img src='https://media4.giphy.com/media/VeHoSTD13Cs9A9ucYe/giphy.gif?cid=ecf05e4721i15b4qagy3rwqxiz3x87drlrkqjnkzo3u3m9vk&rid=giphy.gif&ct=g' />
+<img src='https://i.gifer.com/7bto.gif' />
 
 # W E L C O M E                                                       
 ### To the Dark Side :feelsgood:      <img align='right' alt="GIF" src="https://i.chzbgr.com/full/6538359296/h6ACD7D26/darth-vader-step-in-time" />
-                                   
+[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saschenkab&theme=vue-dark)](https://github.com/saschenkab/github-readme-stats)                                 
 
 
 <!--
@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Saschenka's GitHub stats](https://github-readme-stats.vercel.app/api?username=saschenkab&hide=contribs,prs,stars&show_icons=true&theme=vue-dark)](https://github.com/saschenkab/github-readme-stats) [![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saschenkab&theme=vue-dark)](https://github.com/saschenkab/github-readme-stats)
-<img align='right' src='(https://github-readme-stats.vercel.app/api?username=saschenkab&hide=contribs,prs,stars&show_icons=true&theme=vue-dark)](https://github.com/saschenkab/github-readme-stats)' />
+[![Saschenka's GitHub stats](https://github-readme-stats.vercel.app/api?username=saschenkab&hide=contribs,prs,stars&show_icons=true&theme=vue-dark)](https://github.com/saschenkab/github-readme-stats) 
+
