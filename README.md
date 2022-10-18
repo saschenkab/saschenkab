@@ -1,4 +1,4 @@
-<img align="center" alt="GIF" src="https://media3.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif?cid=ecf05e47c58mczffcon1f23rrird97v3kj3rymm2ukkiz5o6&rid=giphy.gif&ct=g" width="800" height='150' />
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/VeHoSTD13Cs9A9ucYe" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/europeanspaceagency-esa-hubble-hubbleesa-VeHoSTD13Cs9A9ucYe">via GIPHY</a></p>
 
 # W E L C O M E                                                       
 > To the Dark Side :feelsgood:      <img align='right' alt="GIF" src="https://i.chzbgr.com/full/6538359296/h6ACD7D26/darth-vader-step-in-time" />
